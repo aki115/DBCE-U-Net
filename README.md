@@ -17,6 +17,10 @@ Thank you for your cooperation!
 
 *Date: Sep 5, 2024*
 
+## Toolbox Dependency
+
+This project uses the [BasicIRSTD toolbox](http://github.com/XinyiYing/BasicIRSTD), an open-source PyTorch-based toolbox specifically designed for infrared small target detection (IRSTD) tasks. The toolbox provides a standardized pipeline, essential tools, and benchmarks that are crucial for the training and evaluation of IRSTD methods.
+
 ## Table of Contents
 - [Environment Setup](#environment-setup)
 - [Testing the Tracker](#testing-the-tracker)
