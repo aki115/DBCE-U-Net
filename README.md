@@ -45,3 +45,8 @@ We used the following datasets for both training and testing:
    - [Paper](https://ieeexplore.ieee.org/document/9880295)
 
 For detailed instructions on how to use these datasets, please refer to the BasicIRSTD toolbox documentation.
+
+## Acknowledgement
+The code is implemented based on [BasicIRSTD toolbox](http://github.com/XinyiYing/BasicIRSTD)
+
+We would like to express our sincere thanks to the contributors.
