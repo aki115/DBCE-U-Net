@@ -1,4 +1,4 @@
-# DBCE-U=Net
+# DBCE-U-Net
 
 DBCE-U-Net is a single-object tracking algorithm proposed by Mr. Wenjun Zhou and Mr. Xiao. This repository contains the implementation of the algorithm titled **"Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network"** using PyTorch.
 
