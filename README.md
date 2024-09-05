@@ -1,11 +1,11 @@
-# CoSiNet
+# DBCE-U=Net
 
-CoSiNet is a single-object tracking algorithm proposed by Mr. Wenjun Zhou. It is an improved method based on our previous work, SiamDUL. This repository contains the implementation of the algorithm titled **"Dual-Branch Collaborative Siamese Network for Visual Tracking"** using PyTorch.
+DBCE-U=Net is a single-object tracking algorithm proposed by Mr. Wenjun Zhou and Mr. Xiao. This repository contains the implementation of the algorithm titled **"Infrared Small Target Detection via Contrast-Enhanced Dual-Branch Network"** using PyTorch.
 
 ## Authors and Contributors
 The code was implemented by:
 - **Dr. Zhou** (zhouwenjun@swpu.edu.cn)
-- **Ms. Liu** 
+- **Mr. Xiao** 
 
 From the Image Processing and Parallel Computing Laboratory, School of Computer Science, Southwest Petroleum University.
 
@@ -15,7 +15,7 @@ From the Image Processing and Parallel Computing Laboratory, School of Computer 
 
 Thank you for your cooperation!
 
-*Date: May 16, 2024*
+*Date: Sep 5, 2024*
 
 ## Table of Contents
 - [Environment Setup](#environment-setup)
