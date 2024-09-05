@@ -25,23 +25,13 @@ Our model, DBCE U-Net, utilizes the [BasicIRSTD toolbox](http://github.com/Xinyi
 
 ### Training and Testing
 
-To train and test our model, follow the steps provided in the BasicIRSTD toolbox. The toolbox includes comprehensive instructions and scripts for data loading, preprocessing, training, and evaluation. By using the toolbox, you can ensure that the training and testing processes align with standardized IRSTD benchmarks.
+To train and test our model, follow the steps provided in the BasicIRSTD toolbox. 
 
-## Table of Contents
-- [Environment Setup](#environment-setup)
-- [Testing the Tracker](#testing-the-tracker)
-- [Evaluating the Tracker](#evaluating-the-tracker)
-- [Training](#training)
-- [Acknowledgement](#acknowledgement)
+## Datasets
+* **NUAA-SIRST** &nbsp; [[download]](https://github.com/YimianDai/sirst) &nbsp; [[paper]](https://arxiv.org/pdf/2009.14530.pdf)
+* **NUDT-SIRST** &nbsp; [[download]](https://github.com/YeRen123455/Infrared-Small-Target-Detection) &nbsp; [[paper]](https://ieeexplore.ieee.org/abstract/document/9864119)
+* **IRSTD-1K** &nbsp; [[download dir]](https://github.com/RuiZhang97/ISNet) &nbsp; [[paper]](https://ieeexplore.ieee.org/document/9880295)
 
-## Environment Setup
-This code has been tested with the following environment:
-- **OS:** Ubuntu 22.04
-- **Python:** 3.8
-- **PyTorch:** 1.10.0
-- **CUDA:** 11.3
-
-To set up the environment, please install the required libraries:
-
-```bash
-pip install -r requirements.txt
+**We used the NUAA-SIRST, NUDT-SIRST, IRSTD-1K for both training and test. 
+Please first download our datasets via [Baidu Drive](https://pan.baidu.com/s/1df4LagRRjyNeZSfoIqOuHg?pwd=1113) (key:1113) or [Google Drive](https://drive.google.com/file/d/1LscYoPnqtE32qxv5v_dB4iOF4dW3bxL2/view?usp=sharing), and place the 3 datasets to the folder `./datasets/`. More results will be released soon!
+To download the datasets, follow the steps provided in the BasicIRSTD toolbox. ** 
