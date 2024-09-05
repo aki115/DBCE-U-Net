@@ -19,7 +19,13 @@ Thank you for your cooperation!
 
 ## Toolbox Dependency
 
-This project uses the [BasicIRSTD toolbox](http://github.com/XinyiYing/BasicIRSTD), an open-source PyTorch-based toolbox specifically designed for infrared small target detection (IRSTD) tasks. The toolbox provides a standardized pipeline, essential tools, and benchmarks that are crucial for the training and evaluation of IRSTD methods.
+Our model, DBCE U-Net, utilizes the [BasicIRSTD toolbox](http://github.com/XinyiYing/BasicIRSTD) for training, testing, and evaluation. This PyTorch-based open-source toolbox provides a standardized pipeline specifically designed for infrared small target detection (IRSTD) tasks, making it easy to replicate our results and compare with other IRSTD methods.
+
+### Using the Toolbox
+
+### Training and Testing
+
+To train and test our model, follow the steps provided in the BasicIRSTD toolbox. The toolbox includes comprehensive instructions and scripts for data loading, preprocessing, training, and evaluation. By using the toolbox, you can ensure that the training and testing processes align with standardized IRSTD benchmarks.
 
 ## Table of Contents
 - [Environment Setup](#environment-setup)
