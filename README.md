@@ -41,7 +41,7 @@ We used the following datasets for both training and testing:
    - [Paper](https://ieeexplore.ieee.org/abstract/document/9864119)
 
 3. **IRSTD-1K**
-   - [Download Directory](https://github.com/RuiZhang97/ISNet)
+   - [Download](https://github.com/RuiZhang97/ISNet)
    - [Paper](https://ieeexplore.ieee.org/document/9880295)
 
 For detailed instructions on how to use these datasets, please refer to the BasicIRSTD toolbox documentation.
